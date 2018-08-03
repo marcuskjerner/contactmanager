@@ -1,0 +1,13 @@
+.fa,
+.fas {
+	cursor: pointer;
+}
+
+.fa:hover,
+.fas:hover {
+	opacity: .6;
+}
+
+.hide-element {
+	display: none;
+}
